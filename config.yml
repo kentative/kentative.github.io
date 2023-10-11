@@ -1,0 +1,4 @@
+baseURL: "http://kentative.github.io/"
+title: Kentative Blog
+paginate: 5
+theme: PaperMod
